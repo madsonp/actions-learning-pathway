@@ -1,4 +1,4 @@
-name: build-test-deploy
+name: hello-world
 on: push
 jobs: 
   build:
